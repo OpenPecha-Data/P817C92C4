@@ -1,0 +1,102 @@
+id: P817C92C4
+initial_creation_type: input
+source_metadata:
+  title: 'Asaṅga/Maitreya: Ratnagotravibhāga'
+  language: zh
+  volumes:
+    84b1ac9383314faba71afd949e9f18e3:
+      title: CIII_XIV. General Characteristics Of The Buddha’s Properties
+      base_file: CIII_XIV. General Characteristics Of The Buddha’s Properties.txt
+      work_id: W05062342
+    eb51e8c32eae424cb5556ed665e39365:
+      title: CIII_XV. 64 Properties of the Buddha
+      base_file: CIII_XV. 64 Properties of the Buddha.txt
+      work_id: W7437AFBE
+    84877eadbbce4e549a2e7cb08102db76:
+      title: CII_XII. General Characteristics of the Reality Free from Pollutions
+      base_file: CII_XII. General Characteristics of the Reality Free from Pollutions.txt
+      work_id: WA23BD479
+    c9521811802e4cd5b611a4922d105873:
+      title: CII_XIII. 8 Points on the Undefiled Reality
+      base_file: CII_XIII. 8 Points on the Undefiled Reality.txt
+      work_id: W74C63443
+    5bf71d9bd7a447a984bccf098a6d36a5:
+      title: CIV_XVI. General Characteristics of the Acts of the Buddha
+      base_file: CIV_XVI. General Characteristics of the Acts of the Buddha.txt
+      work_id: W02215554
+    66cb17f8417a4ffdac1a36c7ed5bf736:
+      title: CIV_XVII. 9 Illustrations of the Buddha’s Acts
+      base_file: CIV_XVII. 9 Illustrations of the Buddha’s Acts.txt
+      work_id: WF71B0807
+    aa6bca2a30e448ea95af107d714514e1:
+      title: CI_I. Introduction
+      base_file: CI_I. Introduction.txt
+      work_id: W6B268E18
+    b288d0b346e242dca87fb650891274e6:
+      title: CI_II. The Jewel of the Buddha
+      base_file: CI_II. The Jewel of the Buddha.txt
+      work_id: W8E577574
+    815ad3fb907e445e84ad2133cc0a043b:
+      title: CI_III. The Jewel of the Doctrine
+      base_file: CI_III. The Jewel of the Doctrine.txt
+      work_id: WD4EE6201
+    6e70a744b94a47b4b7a4c6631559aabe:
+      title: CI_IV. The Jewel of the Community
+      base_file: CI_IV. The Jewel of the Community.txt
+      work_id: W9749880C
+    71e6aa0d08184e4a8e62ee310f68a5dc:
+      title: CI_IX. The 9 Illustrations on the Germ Covered with Defilements
+      base_file: CI_IX. The 9 Illustrations on the Germ Covered with Defilements.txt
+      work_id: WB0492689
+    a3fbbe0c039344b5aff3e595389c604d:
+      title: CI_V. The Three Jewels as Refuges
+      base_file: CI_V. The Three Jewels as Refuges.txt
+      work_id: W15860987
+    af94d1f1dc9240cc90f96e1c17cab471:
+      title: CI_VI. The Germ Of Three Jewels In Four Aspects
+      base_file: CI_VI. The Germ Of Three Jewels In Four Aspects.txt
+      work_id: WABEA1AB7
+    288419c473454c3eb15d56e91d76bf15:
+      title: 'CI_VII. The Sermon: All Living Beings are possessed of The Matrix of
+        the Tathāgata'
+      base_file: 'CI_VII. The Sermon: All Living Beings are possessed of The Matrix
+        of the Tathāgata.txt'
+      work_id: W8AEE333B
+    0afe22f8015d4c09af5a2b051c9c2d23:
+      title: CI_VIII. Analysis of the Germ from 10 Points of View
+      base_file: CI_VIII. Analysis of the Germ from 10 Points of View.txt
+      work_id: W7B8E465B
+    3f8e2853c05943f1889caac9029260d5:
+      title: CI_X. The Essential Characteristics of the Matrix of the Tathāgata
+      base_file: CI_X. The Essential Characteristics of the Matrix of the Tathāgata.txt
+      work_id: WA48A5019
+    6f22c6076d2a4b82b88c561207ed7e09:
+      title: CI_XI. The Purpose of Instruction
+      base_file: CI_XI. The Purpose of Instruction.txt
+      work_id: WC1519908
+    803c42e148dd47e3878b1de84acb6d6a:
+      title: CV_XVIII. The Merits of Having Faith in the Doctrine of the Essence of
+        Buddhahood
+      base_file: CV_XVIII. The Merits of Having Faith in the Doctrine of the Essence
+        of Buddhahood.txt
+      work_id: W74CF277B
+    46e59b2bcad74e8b93dda63a85a4b50b:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W40244565
+    fcfda1c87c414583bd6916378243d12b:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WA68D7F17
+    ff8730b44e2a481ab026a85621422bc3:
+      title: Title
+      base_file: Title.txt
+      work_id: W430F1FB0
+  chapter_to_tile:
+    CI: 'Chapter I: The Matrix of the Tathāgata'
+    CII: 'Chapter II: The Matrix of the Tathāgata'
+    CIII: 'Chapter III: The Properties of the Buddha'
+    CIV: 'Chapter IV: The Acts of The Buddha'
+    CV: 'Chapter V: The Merits of Faith'
+created_at: '2022-03-01T23:02:17.542857'
+last_modified_at: '2022-03-01T23:02:17.542865'
